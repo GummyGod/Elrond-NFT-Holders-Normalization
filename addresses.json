@@ -1,0 +1,14 @@
+[
+  {
+    "address": "testAddress",
+    "balance": "1"
+  },
+  {
+    "address": "testAddress",
+    "balance": "1"
+  },
+  {
+    "address": "test1",
+    "balance": "1"
+  }
+]
